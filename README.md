@@ -91,8 +91,8 @@ This tool is designed EXCLUSIVELY for:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/panda-web3.git
-cd panda-web3
+git clone https://github.com/0x-Crisbanks/panda-Web3-smart-contract-auditor-.git
+cd panda-Web3-smart-contract-auditor-
 
 # Create virtual environment
 python3 -m venv venv
